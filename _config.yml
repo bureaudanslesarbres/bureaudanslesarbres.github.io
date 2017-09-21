@@ -22,8 +22,8 @@ url: "http://www.bureaudanslesarbres.com" # the base hostname & protocol for you
 twitter_username: bureau_arbres
 github_username:  bureaudanslesarbres
 google_analytics: UA-106793813-1
-header_pages:
- - sondage.html
+#header_pages:
+# - about.html
 
 # Build settings
 markdown: kramdown
