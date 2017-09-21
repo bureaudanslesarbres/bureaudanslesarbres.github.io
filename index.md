@@ -2,12 +2,6 @@
 layout: page
 ---
 
-## Bienvenue 
-
-Sur notre site
-
-## Notre concept
-
-Bla bla bla
+![arbres](assets/trees.jpg)
 
 [Cliquez pour notre sondage](sondage.html)
