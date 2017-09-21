@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Bienvenue 
+## Bienvenue 
 
 Sur notre site
 
