@@ -2,6 +2,6 @@
 layout: page
 ---
 
-![arbres](assets/trees.jpg)
+![arbres](assets/fog.jpg)
 
 [Cliquez pour notre sondage](sondage.html)
