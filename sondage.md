@@ -4,6 +4,6 @@ layout: page
 
 # Sondage
 
-(Version française)[https://fr.surveymonkey.com/r/8KQVP8B]
+(En Français)[https://bureaudanslesarbres.typeform.com/to/pR4g2I]
 
-(English version)[https://www.surveymonkey.com/r/T2TDFLJ]
+(In English)[https://www.surveymonkey.com/r/T2TDFLJ]
