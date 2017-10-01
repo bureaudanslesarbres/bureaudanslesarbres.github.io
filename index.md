@@ -6,5 +6,5 @@ layout: page
 
 
 
-[![English](assets/UK.png)](index_en.html "Click!")
+[![English](assets/UK.png)](index_en.html "In English")
 
