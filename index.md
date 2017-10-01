@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Bureau dans les arbres
 ---
 
