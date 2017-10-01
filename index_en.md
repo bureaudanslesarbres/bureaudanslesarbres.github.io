@@ -2,4 +2,4 @@
 layout: page
 ---
 
-[![arbres](assets/fog.jpg)](sondage.html "Click!")
+[![arbres](assets/fog.jpg)](survey.html "Click!")
