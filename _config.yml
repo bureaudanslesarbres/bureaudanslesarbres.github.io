@@ -28,5 +28,5 @@ google_analytics: UA-106793813-1
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: slate
 
